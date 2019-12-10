@@ -1,0 +1,10 @@
+.jumbotron p {
+    font-size: 16px;
+}
+body {
+    font-family: sans-serif;
+}
+
+.jumbotron {
+    padding-top: 10px;
+}
